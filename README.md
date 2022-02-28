@@ -1,4 +1,17 @@
-### Hi there 👋
+Hi, I'm Nancy, 
+I'm an Information Security and Quality Assurance Professional.
+I use this space for some of my writings and code
+
+### Contents
+TCP Router in C
+Address book in C
+Other old snippets
+Past Writings: 
+- A comparative review of HTTP protocol versions from Http/1 - 3
+- A Review of Cryptographic protocols
+Future Writings:
+- TBD
+
 
 <!--
 **nmogire/nmogire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
