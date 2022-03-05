@@ -6,10 +6,11 @@ I use this space for some of my writings and code
 - TCP Router in C 
 - Address book in C
 - Other old snippets
+
 ###
-Past Writings: 
+Past Writing: 
 - A comparative review of HTTP protocol versions from Http/1 - 3
-- A Review of Cryptographic protocols
+
 ###
 Future Writings:
 - TBD
