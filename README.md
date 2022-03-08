@@ -3,16 +3,18 @@ I'm an Information Security and Quality Assurance Professional.
 I use this space for some of my writings and code
 
 ### Contents
+Code
 - TCP socket library in C 
 - Address book in C++
 - Other old snippets
 
 ###
-Past Writing: 
-- A comparative review of HTTP protocol versions from Http/1 - 3
+Past Writings: </br>
+⚡A software development project plan, under the secure development life cycle (SDLC)</br>
+⚡A comparative review of HTTP protocol versions from Http/1 - 3
 
 ###
-Future Writings:
+Current Writings:
 - TBD
 
 
