@@ -1,6 +1,3 @@
-Hi, I'm Nancy, 
-I use this space for some of my writings and code
-
 ### Contents
 Past Code</br>
 ⚡TCP socket library in C </br>
