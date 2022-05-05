@@ -1,9 +1,8 @@
 Hi, I'm Nancy, 
-I'm an Information Security and Quality Assurance Professional.
 I use this space for some of my writings and code
 
 ### Contents
-Code</br>
+Past Code</br>
 ⚡TCP socket library in C </br>
 ⚡Address book in C++</br>
 ⚡Other old snippets
@@ -14,7 +13,7 @@ Past Writings: </br>
 ⚡A comparative review of HTTP protocol versions from Http/1 - 3
 
 ###
-Current Writings:</br>
+Current:</br>
 ⚡TBD
 
 
