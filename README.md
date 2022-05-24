@@ -11,8 +11,7 @@ Past Writings: </br>
 
 ###
 Current:</br>
-⚡TBD
-
+⚡Moved into the web3 domain. Now doing web3 coding and also contributing to open source research. New github location. Details soon.
 
 <!--
 **nmogire/nmogire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
