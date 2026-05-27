@@ -1,8 +1,8 @@
 ### Contents
 Past Code</br>
 ⚡TCP socket library in C </br>
-⚡Address book in C++</br>
-⚡Other old snippets
+⚡Short programs in C++</br>
+⚡Other</br>
 
 ###
 Past Writings: </br>
